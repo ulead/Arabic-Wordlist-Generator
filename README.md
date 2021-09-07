@@ -1,2 +1,2 @@
 # Arabic-Wordlist-Generator
-Python program to genrate a wordlist in Arabic
+Python program to generate a wordlist in Arabic
