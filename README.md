@@ -1,7 +1,7 @@
-بسم الله الرحمن الرحيم
-# Arabic-Wordlist-Generator
+# توليد قائمة كلمات عربية
+# Arabic Wordlist Generator
 Python program to generate a wordlist in Arabic
-السلام عليكم
+بسم الله الرحمن الرحيم
 
  
 ![intro](img/img9.jpg)
