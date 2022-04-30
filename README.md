@@ -4,6 +4,7 @@ Python program to generate a wordlist in Arabic
 السلام عليكم
 
  
+![This is an image](img/img9.png)
 
  # مقدمة
 
